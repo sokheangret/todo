@@ -14,7 +14,7 @@ class HomeScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('My Tasks'),
+        title: const Text('My Tasks Todo'),
         actions: [
           IconButton(
             icon: const Icon(Icons.filter_list),
